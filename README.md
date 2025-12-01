@@ -18,8 +18,7 @@ This project focuses on clean design, smooth layout, and a modern look that can 
 ## Technologies Used  
 - HTML5  
 - CSS3  
-
-## Demo  
+   
 <img width="1918" height="1071" alt="Screenshot 2025-09-26 191602" src="https://github.com/user-attachments/assets/a234d377-7009-47f3-b182-6f3695c5c664" />
 <img width="1409" height="839" alt="image" src="https://github.com/user-attachments/assets/fcf546e2-7093-4a14-bb52-f7585c87f1fe" />
 <img width="567" height="204" alt="image" src="https://github.com/user-attachments/assets/7900600d-2629-4118-86e2-247f5c448374" />
