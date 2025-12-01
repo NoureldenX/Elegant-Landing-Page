@@ -6,7 +6,14 @@ This project focuses on clean design, smooth layout, and a modern look that can 
 ## Features  
 - Responsive layout that adapts to different screen sizes  
 - Minimal and modern design with soft color palette  
-- Easy-to-read structure and organized code  
+- Easy-to-read structure and organized code
+
+  
+
+## Live Demo
+- https://noureldenx.github.io/Elegant-Landing-Page/
+
+
 
 ## Technologies Used  
 - HTML5  
