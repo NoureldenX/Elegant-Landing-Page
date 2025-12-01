@@ -11,7 +11,7 @@ This project focuses on clean design, smooth layout, and a modern look that can 
   
 
 ## Live Demo
-- 
+- https://noureldenx.github.io/Elegant-Landing-Page/
 
 
 
